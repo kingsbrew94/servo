@@ -384,5 +384,5 @@ var servo = /** @class */ (function () {
     servo.$self = Object.create({});
     return servo;
 }());
-export_module(servo);
+
 //# sourceMappingURL=servo.js.map
